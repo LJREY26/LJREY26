@@ -5,7 +5,7 @@ I am a CS Major at the University of Illinois at Chicago.
 If you see any issues with any of my projects here are some contacts you can use:
 Email: jake.rey.es.269@gmail.com
 -
-Format the email with\n
-Project Name:\n
-Context of Issue:\n
+Format the email with <br />
+Project Name:<br />
+Context of Issue: <br />
 -
